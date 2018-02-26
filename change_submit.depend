@@ -1,0 +1,117 @@
+# depslib dependency file v1.0
+1491311657 source:c:\users\ÕÅçùçâ\dropbox\change_submit\cdn.cpp
+	"deploy.h"
+	"lib_io.h"
+	"lib_time.h"
+	"stdio.h"
+
+1491316770 c:\users\ÕÅçùçâ\dropbox\change_submit\deploy.h
+	"lib_io.h"
+	<vector>
+	<iostream>
+	<algorithm>
+	<time.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string.h>
+	<vector>
+	<queue>
+	<stack>
+	"ns.h"
+
+1490825448 c:\users\ÕÅçùçâ\dropbox\change_submit\lib_io.h
+
+1491927606 c:\users\ÕÅçùçâ\dropbox\change_submit\ns.h
+	<iostream>
+	<algorithm>
+	<cstdlib>
+	<ctime>
+	<iomanip>
+	<sstream>
+	<limits>
+	<cstddef>
+	<string.h>
+	<iostream>
+	<vector>
+	"lib_io.h"
+
+1490818738 c:\users\ÕÅçùçâ\dropbox\change_submit\lib_time.h
+
+1491313682 source:c:\users\ÕÅçùçâ\dropbox\change_submit\deploy.cpp
+	"deploy.h"
+
+1491245554 source:c:\users\ÕÅçùçâ\dropbox\change_submit\io.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1491246049 source:c:\users\ÕÅçùçâ\dropbox\change_submit\ns.cpp
+	"ns.h"
+	"deploy.h"
+
+1491311657 source:c:\users\qiwei-zhang\dropbox\change_submit\cdn.cpp
+	"deploy.h"
+	"lib_io.h"
+	"lib_time.h"
+	"stdio.h"
+
+1491316770 c:\users\qiwei-zhang\dropbox\change_submit\deploy.h
+	"lib_io.h"
+	<vector>
+	<iostream>
+	<algorithm>
+	<time.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string.h>
+	<vector>
+	<queue>
+	<stack>
+	"ns.h"
+
+1490825448 c:\users\qiwei-zhang\dropbox\change_submit\lib_io.h
+
+1491316674 c:\users\qiwei-zhang\dropbox\change_submit\ns.h
+	<iostream>
+	<algorithm>
+	<cstdlib>
+	<ctime>
+	<iomanip>
+	<sstream>
+	<limits>
+	<cstddef>
+	<string.h>
+	<iostream>
+	<vector>
+	"lib_io.h"
+
+1490818738 c:\users\qiwei-zhang\dropbox\change_submit\lib_time.h
+
+1491313682 source:c:\users\qiwei-zhang\dropbox\change_submit\deploy.cpp
+	"deploy.h"
+
+1491245554 source:c:\users\qiwei-zhang\dropbox\change_submit\io.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1491316677 source:c:\users\qiwei-zhang\dropbox\change_submit\ns.cpp
+	"ns.h"
+	"deploy.h"
+
